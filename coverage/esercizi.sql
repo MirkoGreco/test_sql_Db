@@ -1,4 +1,4 @@
---Creare un database con Postgresql chiamato "pizzeria_da_luigi" utilizzando PgAdmin (o un client a tua scelta)
+--Creare un database con Postgresql chiamato "pizzeria_da_luigi" utilizzando PgAdmin (o un client a tua scelta).
 
 CREATE DATABASE pizzeria_da_luigi;
 
