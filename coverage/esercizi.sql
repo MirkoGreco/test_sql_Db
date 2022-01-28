@@ -1,4 +1,4 @@
---riga per generare un conflitto nel merge
+
 
 CREATE DATABASE pizzeria_da_luigi;
 
