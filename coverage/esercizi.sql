@@ -93,7 +93,7 @@ select client_name,MAX(order_total) from orders  group by client_name;
 select DISTINCT date(order_date) from orders;
 
 --18. Tutti gli ordini a più di 6 euro e meno di 8
-select * from orders where order_total between 6.1 and 7.9;
+select * frommmm orders where order_total between 6.1 and 7.9;
 --19. Solamente i primi 5 ordini in ordine temporale (dal più recente al più vecchio)
 select * from orders ORDER BY data_ordine DESC LIMIT 5 ; 
 
